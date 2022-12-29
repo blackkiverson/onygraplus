@@ -17,10 +17,10 @@ export default function login() {
       />
       <div className=" h-full px-8 py-6 bg-gray-800 rounded-2xl bg-clip-padding backdrop-filter backdrop-blur-sm bg-opacity-40 border-gray-100">
         <section>
-          <img
+          <div className='items-center flex flex-col justify-center'><img
             src='/logo.png'
             alt=''
-          />
+          /></div>
           <div className=" relative flex items-center">
             <BsFillPersonFill
               color="white"
