@@ -109,3 +109,9 @@ a {
     color-scheme: dark;
   }
 } */
+
+@font-face {
+  font-family: 'Inter';
+  src: url('/fonts/Inter-Regular.ttf') format('ttf');
+  font-weight: 400;
+}
