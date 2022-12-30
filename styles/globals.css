@@ -112,6 +112,6 @@ a {
 
 @font-face {
   font-family: 'Inter';
-  src: url('/fonts/Inter-Regular.ttf') format('ttf');
+  src: url('/fonts/Inter-Light.ttf') format('ttf');
   font-weight: 400;
 }
